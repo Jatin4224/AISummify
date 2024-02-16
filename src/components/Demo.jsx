@@ -140,6 +140,9 @@ const Demo = () => {
           )
         )}
       </div>
+      <footer className="text-center text-gray-500 text-sm mt-8">
+        &copy; 2024 All rights reserved. Created by Jatin.
+      </footer>
     </section>
   );
 };
